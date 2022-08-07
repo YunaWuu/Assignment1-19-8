@@ -1,0 +1,30 @@
+body {
+  font-family: verdana, sans-serif;
+  font-size: 14px;
+}
+li {
+  display: inline-block;
+}
+
+.img {
+  float: left;
+  width: 15%;
+}
+
+/* Navbar container */
+.navbar {
+  /* overflow: hidden; */
+  background-color: #F9F9F9;
+  margin: 0px 150px;
+}
+
+.navbar-content {
+  padding: 90px;
+}
+/* Links inside the navbar */
+.navbar a {
+  color: black;
+  text-align: center;
+  padding: 0px 100px;
+  text-decoration: none;
+}
