@@ -1,0 +1,38 @@
+body {
+  font-family: verdana sans-serif;
+  font-size: 14px;
+  font-color: black;
+  margin: 3%;
+}
+
+input[type=text], select {
+  padding: 12px 20px;
+  margin: 10px 0;
+  border: 1px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 60%;
+}
+
+.form-title {
+  font-size: 18px;
+  padding: 25px 0;
+}
+
+.message {
+  height: 150px;
+}
+
+.checkbox {
+  padding: 12px 20px;
+  margin: 10px 0;
+}
+
+.submit {
+  padding: 12px 20px;
+  margin: 8px auto;
+  box-sizing: border-box;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: F1F1F1;
+}
